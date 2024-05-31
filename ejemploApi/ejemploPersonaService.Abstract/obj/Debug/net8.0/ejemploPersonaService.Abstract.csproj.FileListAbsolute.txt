@@ -1,0 +1,11 @@
+C:\Users\tamar\OneDrive\Escritorio\CUCV2024Final\Progra5\EjemploApi\ejemploApi\ejemploPersonaService.Abstract\bin\Debug\net8.0\ejemploPersonaService.Abstract.deps.json
+C:\Users\tamar\OneDrive\Escritorio\CUCV2024Final\Progra5\EjemploApi\ejemploApi\ejemploPersonaService.Abstract\bin\Debug\net8.0\ejemploPersonaService.Abstract.dll
+C:\Users\tamar\OneDrive\Escritorio\CUCV2024Final\Progra5\EjemploApi\ejemploApi\ejemploPersonaService.Abstract\bin\Debug\net8.0\ejemploPersonaService.Abstract.pdb
+C:\Users\tamar\OneDrive\Escritorio\CUCV2024Final\Progra5\EjemploApi\ejemploApi\ejemploPersonaService.Abstract\obj\Debug\net8.0\ejemploPersonaService.Abstract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tamar\OneDrive\Escritorio\CUCV2024Final\Progra5\EjemploApi\ejemploApi\ejemploPersonaService.Abstract\obj\Debug\net8.0\ejemploPersonaService.Abstract.AssemblyInfoInputs.cache
+C:\Users\tamar\OneDrive\Escritorio\CUCV2024Final\Progra5\EjemploApi\ejemploApi\ejemploPersonaService.Abstract\obj\Debug\net8.0\ejemploPersonaService.Abstract.AssemblyInfo.cs
+C:\Users\tamar\OneDrive\Escritorio\CUCV2024Final\Progra5\EjemploApi\ejemploApi\ejemploPersonaService.Abstract\obj\Debug\net8.0\ejemploPersonaService.Abstract.csproj.CoreCompileInputs.cache
+C:\Users\tamar\OneDrive\Escritorio\CUCV2024Final\Progra5\EjemploApi\ejemploApi\ejemploPersonaService.Abstract\obj\Debug\net8.0\ejemploPersonaService.Abstract.dll
+C:\Users\tamar\OneDrive\Escritorio\CUCV2024Final\Progra5\EjemploApi\ejemploApi\ejemploPersonaService.Abstract\obj\Debug\net8.0\refint\ejemploPersonaService.Abstract.dll
+C:\Users\tamar\OneDrive\Escritorio\CUCV2024Final\Progra5\EjemploApi\ejemploApi\ejemploPersonaService.Abstract\obj\Debug\net8.0\ejemploPersonaService.Abstract.pdb
+C:\Users\tamar\OneDrive\Escritorio\CUCV2024Final\Progra5\EjemploApi\ejemploApi\ejemploPersonaService.Abstract\obj\Debug\net8.0\ref\ejemploPersonaService.Abstract.dll

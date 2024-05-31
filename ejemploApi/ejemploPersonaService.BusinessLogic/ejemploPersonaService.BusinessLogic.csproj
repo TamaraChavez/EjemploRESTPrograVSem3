@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ejemploPersonaService.Abstract\ejemploPersonaService.Abstract.csproj" />
+    <ProjectReference Include="..\ejemploPersonaService.DataAccess\ejemploPersonaService.DataAccess.csproj" />
+    <ProjectReference Include="..\ejemploPersonaService.Models\ejemploPersonaService.Models.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,14 @@
+C:\Users\tamar\OneDrive\Escritorio\CUCV2024Final\Progra5\EjemploApi\ejemploApi\ejemploPersonaService.DataAccess\bin\Debug\net8.0\ejemploPersonaService.DataAccess.deps.json
+C:\Users\tamar\OneDrive\Escritorio\CUCV2024Final\Progra5\EjemploApi\ejemploApi\ejemploPersonaService.DataAccess\bin\Debug\net8.0\ejemploPersonaService.DataAccess.runtimeconfig.json
+C:\Users\tamar\OneDrive\Escritorio\CUCV2024Final\Progra5\EjemploApi\ejemploApi\ejemploPersonaService.DataAccess\bin\Debug\net8.0\ejemploPersonaService.DataAccess.dll
+C:\Users\tamar\OneDrive\Escritorio\CUCV2024Final\Progra5\EjemploApi\ejemploApi\ejemploPersonaService.DataAccess\bin\Debug\net8.0\ejemploPersonaService.DataAccess.pdb
+C:\Users\tamar\OneDrive\Escritorio\CUCV2024Final\Progra5\EjemploApi\ejemploApi\ejemploPersonaService.DataAccess\obj\Debug\net8.0\ejemploPersonaService.DataAccess.csproj.AssemblyReference.cache
+C:\Users\tamar\OneDrive\Escritorio\CUCV2024Final\Progra5\EjemploApi\ejemploApi\ejemploPersonaService.DataAccess\obj\Debug\net8.0\ejemploPersonaService.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tamar\OneDrive\Escritorio\CUCV2024Final\Progra5\EjemploApi\ejemploApi\ejemploPersonaService.DataAccess\obj\Debug\net8.0\ejemploPersonaService.DataAccess.AssemblyInfoInputs.cache
+C:\Users\tamar\OneDrive\Escritorio\CUCV2024Final\Progra5\EjemploApi\ejemploApi\ejemploPersonaService.DataAccess\obj\Debug\net8.0\ejemploPersonaService.DataAccess.AssemblyInfo.cs
+C:\Users\tamar\OneDrive\Escritorio\CUCV2024Final\Progra5\EjemploApi\ejemploApi\ejemploPersonaService.DataAccess\obj\Debug\net8.0\ejemploPersonaService.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\tamar\OneDrive\Escritorio\CUCV2024Final\Progra5\EjemploApi\ejemploApi\ejemploPersonaService.DataAccess\obj\Debug\net8.0\ejemploPersonaService.DataAccess.dll
+C:\Users\tamar\OneDrive\Escritorio\CUCV2024Final\Progra5\EjemploApi\ejemploApi\ejemploPersonaService.DataAccess\obj\Debug\net8.0\refint\ejemploPersonaService.DataAccess.dll
+C:\Users\tamar\OneDrive\Escritorio\CUCV2024Final\Progra5\EjemploApi\ejemploApi\ejemploPersonaService.DataAccess\obj\Debug\net8.0\ejemploPersonaService.DataAccess.pdb
+C:\Users\tamar\OneDrive\Escritorio\CUCV2024Final\Progra5\EjemploApi\ejemploApi\ejemploPersonaService.DataAccess\obj\Debug\net8.0\ejemploPersonaService.DataAccess.genruntimeconfig.cache
+C:\Users\tamar\OneDrive\Escritorio\CUCV2024Final\Progra5\EjemploApi\ejemploApi\ejemploPersonaService.DataAccess\obj\Debug\net8.0\ref\ejemploPersonaService.DataAccess.dll
