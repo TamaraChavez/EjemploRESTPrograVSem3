@@ -1,7 +1,24 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\tamar\\OneDrive\\Escritorio\\CUCV2024Final\\Progra5\\EjemploApi\\ejemploApi\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{982CC3BF-90E4-49A1-8384-0BBC22A5DD0A}|ejemploPersonaService.DataAccess\\ejemploPersonaService.DataAccess.csproj|c:\\users\\tamar\\onedrive\\escritorio\\cucv2024final\\progra5\\ejemploapi\\ejemploapi\\ejemplopersonaservice.dataaccess\\models\\ejemploapicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{982CC3BF-90E4-49A1-8384-0BBC22A5DD0A}|ejemploPersonaService.DataAccess\\ejemploPersonaService.DataAccess.csproj|solutionrelative:ejemplopersonaservice.dataaccess\\models\\ejemploapicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{982CC3BF-90E4-49A1-8384-0BBC22A5DD0A}|ejemploPersonaService.DataAccess\\ejemploPersonaService.DataAccess.csproj|c:\\users\\tamar\\onedrive\\escritorio\\cucv2024final\\progra5\\ejemploapi\\ejemploapi\\ejemplopersonaservice.dataaccess\\models\\telefono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{982CC3BF-90E4-49A1-8384-0BBC22A5DD0A}|ejemploPersonaService.DataAccess\\ejemploPersonaService.DataAccess.csproj|solutionrelative:ejemplopersonaservice.dataaccess\\models\\telefono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{982CC3BF-90E4-49A1-8384-0BBC22A5DD0A}|ejemploPersonaService.DataAccess\\ejemploPersonaService.DataAccess.csproj|c:\\users\\tamar\\onedrive\\escritorio\\cucv2024final\\progra5\\ejemploapi\\ejemploapi\\ejemplopersonaservice.dataaccess\\models\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{982CC3BF-90E4-49A1-8384-0BBC22A5DD0A}|ejemploPersonaService.DataAccess\\ejemploPersonaService.DataAccess.csproj|solutionrelative:ejemplopersonaservice.dataaccess\\models\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{982CC3BF-90E4-49A1-8384-0BBC22A5DD0A}|ejemploPersonaService.DataAccess\\ejemploPersonaService.DataAccess.csproj|c:\\users\\tamar\\onedrive\\escritorio\\cucv2024final\\progra5\\ejemploapi\\ejemploapi\\ejemplopersonaservice.dataaccess\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{982CC3BF-90E4-49A1-8384-0BBC22A5DD0A}|ejemploPersonaService.DataAccess\\ejemploPersonaService.DataAccess.csproj|solutionrelative:ejemplopersonaservice.dataaccess\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +26,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EjemploApiContext.cs",
+              "DocumentMoniker": "C:\\Users\\tamar\\OneDrive\\Escritorio\\CUCV2024Final\\Progra5\\EjemploApi\\ejemploApi\\ejemploPersonaService.DataAccess\\Models\\EjemploApiContext.cs",
+              "RelativeDocumentMoniker": "ejemploPersonaService.DataAccess\\Models\\EjemploApiContext.cs",
+              "ToolTip": "C:\\Users\\tamar\\OneDrive\\Escritorio\\CUCV2024Final\\Progra5\\EjemploApi\\ejemploApi\\ejemploPersonaService.DataAccess\\Models\\EjemploApiContext.cs",
+              "RelativeToolTip": "ejemploPersonaService.DataAccess\\Models\\EjemploApiContext.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAwwEIAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T14:53:28.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Telefono.cs",
+              "DocumentMoniker": "C:\\Users\\tamar\\OneDrive\\Escritorio\\CUCV2024Final\\Progra5\\EjemploApi\\ejemploApi\\ejemploPersonaService.DataAccess\\Models\\Telefono.cs",
+              "RelativeDocumentMoniker": "ejemploPersonaService.DataAccess\\Models\\Telefono.cs",
+              "ToolTip": "C:\\Users\\tamar\\OneDrive\\Escritorio\\CUCV2024Final\\Progra5\\EjemploApi\\ejemploApi\\ejemploPersonaService.DataAccess\\Models\\Telefono.cs",
+              "RelativeToolTip": "ejemploPersonaService.DataAccess\\Models\\Telefono.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T14:53:26.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Rol.cs",
+              "DocumentMoniker": "C:\\Users\\tamar\\OneDrive\\Escritorio\\CUCV2024Final\\Progra5\\EjemploApi\\ejemploApi\\ejemploPersonaService.DataAccess\\Models\\Rol.cs",
+              "RelativeDocumentMoniker": "ejemploPersonaService.DataAccess\\Models\\Rol.cs",
+              "ToolTip": "C:\\Users\\tamar\\OneDrive\\Escritorio\\CUCV2024Final\\Progra5\\EjemploApi\\ejemploApi\\ejemploPersonaService.DataAccess\\Models\\Rol.cs",
+              "RelativeToolTip": "ejemploPersonaService.DataAccess\\Models\\Rol.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T14:53:24.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\tamar\\OneDrive\\Escritorio\\CUCV2024Final\\Progra5\\EjemploApi\\ejemploApi\\ejemploPersonaService.DataAccess\\Models\\Persona.cs",
+              "RelativeDocumentMoniker": "ejemploPersonaService.DataAccess\\Models\\Persona.cs",
+              "ToolTip": "C:\\Users\\tamar\\OneDrive\\Escritorio\\CUCV2024Final\\Progra5\\EjemploApi\\ejemploApi\\ejemploPersonaService.DataAccess\\Models\\Persona.cs",
+              "RelativeToolTip": "ejemploPersonaService.DataAccess\\Models\\Persona.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T14:53:18.267Z"
             }
           ]
         }

@@ -260,3 +260,4 @@ C:\Users\tamar\OneDrive\Escritorio\CUCV2024Final\Progra5\EjemploApi\ejemploApi\e
 C:\Users\tamar\OneDrive\Escritorio\CUCV2024Final\Progra5\EjemploApi\ejemploApi\ejemploApi\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 C:\Users\tamar\OneDrive\Escritorio\CUCV2024Final\Progra5\EjemploApi\ejemploApi\ejemploApi\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\tamar\OneDrive\Escritorio\CUCV2024Final\Progra5\EjemploApi\ejemploApi\ejemploApi\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\tamar\OneDrive\Escritorio\CUCV2024Final\Progra5\EjemploApi\ejemploApi\ejemploApi\obj\Debug\net8.0\ejemploApi.sourcelink.json
